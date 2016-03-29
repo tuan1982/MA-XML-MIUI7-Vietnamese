@@ -19,4 +19,13 @@
         <item>Ông ngoại</item>
         <item>Bà ngoại</item>
     </string-array>
+    <string-array name="relation_with_me">
+        <item>chính tôi</item>
+        <item>trẻ em</item>
+        <item>gia đình</item>
+        <item>đồng nghiệp</item>
+        <item>bạn học</item>
+        <item>bạn bè</item>
+        <item>không xác định</item>
+    </string-array>
 </resources>
